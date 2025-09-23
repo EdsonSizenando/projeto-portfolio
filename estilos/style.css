@@ -183,7 +183,7 @@ aspect-ratio: 16/9;
   background-color: var(--destaque-inverso);
 }
 
-@media screen and (min-widh: 768px)  {
+@media screen and (min-widh: 768px){
   #skill-container {
         grid-template-columns: 1fr 1fr ;
     }
